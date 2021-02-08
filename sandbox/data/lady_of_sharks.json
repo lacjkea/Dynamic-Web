@@ -1,0 +1,15 @@
+{​​
+    "id": 782364849362, 
+    "powers": ["Feeds Sharks", "Gives Joy to Ocean", "Farts Rainbows"],
+    "outfit": "Shark Skin Tight jacket", 
+    "alias": "Lady of Sharks",
+    "mission": "Save Sharks",
+    "cape": true, 
+    "weaknesses": ["Loves Ocean", "Has Sensitive Nipples"],
+    "image": "https://www.google.com/search?q=shark+superhero&sxsrf=ALeKk03XLJDFA0sB7bWUUpiXZuSqNiMFkA:1612514285873&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9mtHpq9LuAhWLilwKHcCKAbAQ_AUoAXoECBYQAw&biw=1621&bih=896#imgrc=2RTsRdEGF_3yqM",
+    "enemies": 1,
+    "sidekick": {​​
+    "name": "Morena",
+    "cape": false 
+    }​​
+    }​​
